@@ -1,0 +1,2 @@
+# FFMPEG_And_Other_Study
+关于FFmpeg的实践，相关项目及其涉及到的流媒体相关技术备忘
