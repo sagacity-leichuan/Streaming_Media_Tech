@@ -1,0 +1,6 @@
+rtsp://admin:@192.168.10.30:554/ch0_0.264
+开发环境：
+    WIN7 64位 Visual Studio 2015
+    QT 5.9 32位 
+    FFmpeg 3.3 32位
+    Opencv 3.2 32位	  

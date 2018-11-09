@@ -1,0 +1,4 @@
+*.exe
+*.dll
+*.db
+/Streaming_Media_Code/bin
