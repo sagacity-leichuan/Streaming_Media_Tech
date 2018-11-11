@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Qt_Audio_Video_Rtmp_Class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Qt_Audio_Rtmp_Class.vcxproj -> E:\WorkSpace\TencentClassroom\TEST\Streaming_Media_Tech\Streaming_Media_Code\src\Streaming_Media_Tech\Qt_Audio_Rtmp_Class\../../../bin\Qt_Audio_Rtmp_Class.exe
+  Qt_Audio_Rtmp_Class.vcxproj -> ../../../bin\Qt_Audio_Rtmp_Class.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  main.cpp
+  XMediaEncode.cpp
+  XRtmp.cpp
+e:\workspace\tencentclassroom\test\streaming_media_tech\streaming_media_code\src\streaming_media_tech\qt_audio_rtmp\xrtmp.cpp(128): warning C4715: “CXRtmp::SendFrame”: 不是所有的控件路径都返回值
+  Qt_Audio_Rtmp.vcxproj -> E:\WorkSpace\TencentClassroom\TEST\Streaming_Media_Tech\Streaming_Media_Code\src\Streaming_Media_Tech\Qt_Audio_Rtmp\../../../bin\Qt_Audio_Rtmp.exe
+  Qt_Audio_Rtmp.vcxproj -> ../../../bin\Qt_Audio_Rtmp.pdb (Full PDB)
