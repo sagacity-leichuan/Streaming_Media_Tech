@@ -1,7 +1,7 @@
 # FFMPEG_And_Other_Study
 关于FFmpeg和OpenCV的实践，相关项目及其涉及到的流媒体相关技术备忘
 <br>
-相关代码及资源来自于夏曹俊老师的学习参考代码
+相关代码及资源来自于夏曹俊老师的学习参考代码,来源网站：http://www.ffmpeg.club/
 
 ## 开发环境：
     WIN7 64位 Visual Studio 2015
