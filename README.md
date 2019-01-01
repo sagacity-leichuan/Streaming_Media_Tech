@@ -32,3 +32,5 @@
 	1.利用封装的录制音频的接口，录制缓冲队列处理
 ## Audio_And_video_Synchronization子项目
 	关于在QT库中结合FFMPEG、OpenCV实现摄像头音视频的获取及图像美颜并推流。
+## QTRtmpStreamer子项目
+	流媒体直播的具体实现
