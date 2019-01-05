@@ -24,3 +24,4 @@ Qt_Audio_Rtmp子项目包括在QT库中结合FFMPEG实现音频推流相关的测试代码。
 Qt_Audio_Rtmp_Class子项目包括在QT库中结合FFMPEG实现音频推流相关的测试代码的类封装。
 	1.利用封装的录制音频的接口，录制缓冲队列处理
 Audio_And_video_Synchronization子项目包括在QT库中结合FFMPEG、OpenCV实现摄像头音视频的获取及图像美颜并推流。
+QTRtmpStreamer subproject:The specific implementation of streaming live.
