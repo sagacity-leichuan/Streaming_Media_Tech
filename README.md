@@ -1,36 +1,35 @@
 # FFMPEG_And_Other_Study
-关于FFmpeg和OpenCV的实践，相关项目及其涉及到的流媒体相关技术备忘
-<br>
-相关代码及资源来自于夏曹俊老师的学习参考代码,来源网站：http://www.ffmpeg.club/
+	About FFmpeg and OpenCV practices, related projects and streaming media related technical notes
+	The relevant code and resources are from the learning reference code of CaojunXia teacher , source website: http://www.ffmpeg.club/
 
-## 开发环境：
-    WIN7 64位 Visual Studio 2015
-    QT 5.9 32位 
-    FFmpeg 3.3 32位
-    Opencv 3.2 32位	
-	bin目录下有可执行程序需要的dll文件，需要根据库版本添加对应的dll文件。 
+## Development Environment:
+	WIN7 64-bit Visual Studio 2015
+	QT 5.9 32 bit
+	FFmpeg 3.3 32 bit
+	Opencv 3.2 32 bit
+	There is a dll file required by the executable program in the bin directory, and the corresponding dll file needs to be added according to the library version.
 
-## FFMPEG_Practice子项目
-  	关于FFMPEG相关的测试与练习代码。
-	1.使用文件推流到RTMP
-## OpenCV_Practice子项目
-	关于OpenCV相关的测试与练习代码。
-	1.简单测试显示图片
-	2.简单测试Mat对象
-	3.简单测试获取USB摄像头和网络摄像头的数据
-	4.使用OpenCV做rtsp to rtmp，并添加异常处理
-	5.初始化像素格式上下文
-	6.rtsp数据源到rtmp推流   重点
-	7.opencv_rtsp_to_rtmp_class封装重构代码   重点 
-## Qt_Audio_Rtmp子项目
-	关于在QT库中结合FFMPEG实现音频推流相关的测试代码。
-	1.QT录制音频测试
-	2.音频推流
-	3.音频推流代码重构
-## Qt_Audio_Rtmp_Class子项目
-	关于在QT库中结合FFMPEG实现音频推流相关的测试代码的类封装。
-	1.利用封装的录制音频的接口，录制缓冲队列处理
-## Audio_And_video_Synchronization子项目
-	关于在QT库中结合FFMPEG、OpenCV实现摄像头音视频的获取及图像美颜并推流。
-## QTRtmpStreamer子项目
-	流媒体直播的具体实现
+## FFMPEG_Practice subproject
+	About FFMPEG related test and practice code.
+	1. Use files to push to RTMP
+## OpenCV_Practice subproject
+	About OpenCV related test and practice code.
+	1. Simple test display picture
+	2. Simple test Mat object
+	3. Simple test to get data from USB camera and webcam
+	4. Use OpenCV to do rtsp to rtmp and add exception handling
+	5. Initialize the pixel format context
+	6. rtsp data source to rtmp push stream
+	7. opencv_rtsp_to_rtmp_class package refactoring code
+## Qt_Audio_Rtmp subproject
+	About the test code related to the implementation of audio push stream in FFMPEG in the QT library.
+	1. QT recording audio test
+	2. Audio push
+	3. Audio push stream code reconstruction
+## Qt_Audio_Rtmp_Class Subproject
+	A class wrapper for test code related to audio pushstream implementation in conjunction with FFMPEG in the QT library.
+	1. Using the packaged audio recording interface, recording buffer queue processing
+## Audio_And_video_Synchronization subproject
+	About the combination of FFMPEG and OpenCV in the QT library to achieve camera audio and video acquisition and image beauty and push flow.
+## QTRtmpStreamer subproject
+	The specific implementation of streaming live.
